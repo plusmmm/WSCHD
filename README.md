@@ -5,6 +5,9 @@ zwenergy氏の作成した「swancolorHD」を基に再設計しました。<br>
 swancolorHD<br>
 https://github.com/zwenergy/swancolorHD
 </p>
+<p>
+  <img src="https://github.com/plusmmm/WSCHD/blob/main/PCB_image.png" width="30%">
+</p>
 
 <h3>PCB BOM</h3>
 <p>
