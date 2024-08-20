@@ -6,7 +6,7 @@ swancolorHD<br>
 https://github.com/zwenergy/swancolorHD
 </p>
 <p>
-  <img src="https://github.com/plusmmm/WSCHD/blob/main/PCB_image.png" width="30%">
+  <img src="https://raw.githubusercontent.com/plusmmm/WSCHD/main/WSCHD%20rev1.1.png" width="30%">
 </p>
 
 <h3>PCB BOM</h3>
@@ -33,4 +33,13 @@ https://github.com/zwenergy/swancolorHD
 </p>
 <p>
   GNDは1本分だけ余ります。
+</p>
+
+
+<h3>更新履歴</h3>
+<p>
+  <b>rev1.1</b><br>
+  配置を変更しました。<br>
+  が、あまりオススメしません。<br>
+  rev1.2をお待ちいただいたほうが良いかもしれません。
 </p>
