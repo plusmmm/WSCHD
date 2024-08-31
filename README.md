@@ -32,13 +32,13 @@ https://github.com/zwenergy/swancolorHD
   適宜、5V電源とGNDを用意してください。
 </p>
 <p>
-  GNDは1本分だけ余ります。
+  GNDは2本分余ります。
 </p>
 
 
 <h3>更新履歴</h3>
 <p>
-  <b>rev1.22</b><br>
+  <b>rev1.22(24/09/01)</b><br>
   配置を変更しました。
 </p>
 <p>
