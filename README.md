@@ -6,7 +6,7 @@ swancolorHD<br>
 https://github.com/zwenergy/swancolorHD
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/plusmmm/WSCHD/main/WSCHD%20rev1.1.png" width="30%">
+  <img src="https://raw.githubusercontent.com/plusmmm/WSCHD/main/WSCHD%20rev1.22.png" width="30%">
 </p>
 
 <h3>PCB BOM</h3>
@@ -37,6 +37,10 @@ https://github.com/zwenergy/swancolorHD
 
 
 <h3>更新履歴</h3>
+<p>
+  <b>rev1.22</b><br>
+  配置を変更しました。
+</p>
 <p>
   <b>rev1.1</b><br>
   配置を変更しました。<br>
