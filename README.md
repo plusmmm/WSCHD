@@ -20,9 +20,14 @@ https://github.com/zwenergy/swancolorHD
     <th>リンク</th>
   </tr>
   <tr>
-    <th>U5</th>
-    <td>LD1117AG-1.5V</td>
+    <th>U4</th>
+    <td>ショットキーバリアダイオード</td>
     <td><a href="https://www.lcsc.com/product-detail/Schottky-Diodes_JSMSEMI-1N5819W_C963381.html">LCSC</a></td>
+  </tr>
+  <tr>
+    <th>U5</th>
+    <td>レギュレーター</td>
+    <td><a href="https://www.lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_UTC-Unisonic-Tech-LD1117AG-1-5V_C474401.html">LCSC</a></td>
   </tr>
   <tr>
     <th>C1</th>
