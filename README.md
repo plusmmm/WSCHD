@@ -23,9 +23,13 @@ https://github.com/zwenergy/swancolorHD
     <th>U5</th>
     <td>LD1117AG-1.5V</td>
     <td><a href="https://www.lcsc.com/product-detail/Schottky-Diodes_JSMSEMI-1N5819W_C963381.html">LCSC</a></td>
+  </tr>
+  <tr>
     <th>C1</th>
     <td>キャパシタ 1206 10uF</td>
     <td><a href="https://item.szlcsc.com/89171.html">LCSC</a></td>
+  </tr>
+  <tr>
     <th>C2</th>
     <td>キャパシタ 1206 100uF</td>
     <td><a href="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Chinocera-HGC1206R5107M100NSPJ_C7432784.html">LCSC</a></td>
