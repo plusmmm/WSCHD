@@ -48,6 +48,18 @@ https://github.com/zwenergy/swancolorHD
 </p>
 
 
+<h3>プログラムでAボタンの連射機能を搭載</h3>
+<p>
+仙界伝弐のRTA用に<br>
+・Aは単発A<br>
+・Yを押しっぱでA連射
+</p><p>
+B押しっぱのA連打でテキスト送りが早くなる仕様のための実装
+</p><p>
+controller2.inoをArduino Nanoに書き込んでください。
+</p>
+
+
 <h3>更新履歴</h3>
 <p>
   <b>rev1.3.1(24/09/27)</b><br>
