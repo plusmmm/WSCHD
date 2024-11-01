@@ -6,7 +6,7 @@ swancolorHD<br>
 https://github.com/zwenergy/swancolorHD
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/plusmmm/WSCHD/main/Rev1.3.1.png" width="30%">
+  <img src="https://raw.githubusercontent.com/plusmmm/WSCHD/main/Rev1.3.6.png" width="30%">
 </p>
 
 <h3>PCB BOM</h3>
@@ -65,6 +65,10 @@ controller2.inoをArduino Nanoに書き込んでください。
 
 
 <h3>更新履歴</h3>
+<p>
+  <b>rev1.3.6(24/11/02)</b><br>
+  配置を変更しました。
+</p>
 <p>
   <b>rev1.3.1(24/09/27)</b><br>
   配置を変更、パーツを変更しました。
