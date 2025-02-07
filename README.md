@@ -11,7 +11,7 @@ https://github.com/zwenergy/swancolorHD
 
 <h3>PCB BOM</h3>
 <p>
-  パーツに変更があります。
+  swancolorHDからパーツに変更があります。
 </p>
 <table>
   <tr>
