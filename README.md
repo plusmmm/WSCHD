@@ -20,17 +20,17 @@ https://github.com/zwenergy/swancolorHD
   <tr>
     <th>番号</th>
     <th>パーツ</th>
-    <th>リンク</th>
+    <th>LCSC Part #</th>
   </tr>
   <tr>
     <th>R1</th>
     <td>10kΩ 抵抗</td>
-    <td><a href="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.html">LCSC</a></td>
+    <td><C17414</a></td>
   </tr>
   <tr>
     <th>U5</th>
     <td>レギュレーター</td>
-    <td><a href="https://www.lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_UTC-Unisonic-Tech-LD1117AG-1-5V_C474401.html">LCSC</a></td>
+    <td>C474401</td>
   </tr>
   <tr>
     <th>C1</th>
@@ -40,12 +40,12 @@ https://github.com/zwenergy/swancolorHD
   <tr>
     <th>C2-C4</th>
     <td>キャパシタ 1206 100uF</td>
-    <td><a href="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Chinocera-HGC1206R5107M100NSPJ_C7432784.html">LCSC</a></td>
+    <td>C9807</td>
   </tr>
   <tr>
     <th>Q13</th>
     <td>Pチャンネル MOSFET</td>
-    <td><a href="https://www.lcsc.com/product-detail/MOSFETs_HUASHUO-IRLML6402_C518785.html">LCSC</a></td>
+    <td>C518785</td>
   </tr>
 </table>
 
