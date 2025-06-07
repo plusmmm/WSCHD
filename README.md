@@ -25,7 +25,7 @@ https://github.com/zwenergy/swancolorHD
   <tr>
     <th>R1</th>
     <td>10kΩ 抵抗</td>
-    <td><C17414</a></td>
+    <td>C17414</td>
   </tr>
   <tr>
     <th>U5</th>
