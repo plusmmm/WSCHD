@@ -6,7 +6,10 @@ swancolorHD<br>
 https://github.com/zwenergy/swancolorHD
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/plusmmm/WSCHD/main/Rev1.4.0.png" width="30%">
+  <img src="https://raw.githubusercontent.com/plusmmm/WSCHD/main/Rev1.5.0.png" width="30%">
+</p>
+<p>
+  HDMIケーブルの抜き差し無しで起動できるようになりました。
 </p>
 
 <h3>PCB BOM</h3>
@@ -20,8 +23,8 @@ https://github.com/zwenergy/swancolorHD
     <th>リンク</th>
   </tr>
   <tr>
-    <th>U4</th>
-    <td>ショットキーバリアダイオード</td>
+    <th>R1</th>
+    <td>10kΩ 抵抗</td>
     <td><a href="https://www.lcsc.com/product-detail/Schottky-Diodes_JSMSEMI-1N5819W_C963381.html">LCSC</a></td>
   </tr>
   <tr>
@@ -35,9 +38,14 @@ https://github.com/zwenergy/swancolorHD
     <td><a href="https://item.szlcsc.com/89171.html">LCSC</a></td>
   </tr>
   <tr>
-    <th>C2</th>
+    <th>C2-C4</th>
     <td>キャパシタ 1206 100uF</td>
     <td><a href="https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Chinocera-HGC1206R5107M100NSPJ_C7432784.html">LCSC</a></td>
+  </tr>
+  <tr>
+    <th>Q13</th>
+    <td>Pチャンネル MOSFET</td>
+    <td><a href="https://www.lcsc.com/product-detail/MOSFETs_HUASHUO-IRLML6402_C518785.html">LCSC</a></td>
   </tr>
 </table>
 
@@ -65,6 +73,12 @@ controller2.inoをArduino Nanoに書き込んでください。
 
 
 <h3>更新履歴</h3>
+<p>
+  <b>rev1.5.0(25/06/07)</b><br>
+  配置を変更しました。<br>
+  HDMIの抜き差し無しで起動できるようになりました。<br>
+  使用パーツに変更があります。
+</p>
 <p>
   <b>rev1.4.0(25/02/07)</b><br>
   配置を変更しました。
