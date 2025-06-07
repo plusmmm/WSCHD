@@ -35,12 +35,12 @@ https://github.com/zwenergy/swancolorHD
   <tr>
     <th>C1</th>
     <td>キャパシタ 1206 10uF</td>
-    <td><a href="https://item.szlcsc.com/89171.html">LCSC</a></td>
+    <td>C9807</td>
   </tr>
   <tr>
     <th>C2-C4</th>
     <td>キャパシタ 1206 100uF</td>
-    <td>C9807</td>
+    <td>C7432784</td>
   </tr>
   <tr>
     <th>Q13</th>
