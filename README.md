@@ -52,7 +52,7 @@ https://github.com/zwenergy/swancolorHD
 <h3>備考</h3>
 <p>
   マイクロUSBのコネクタは撤去しました。<br>
-  適宜、5V電源とGNDを用意してください。
+  適宜、5V電源を用意してください。
 </p>
 
 
