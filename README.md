@@ -25,7 +25,7 @@ https://github.com/zwenergy/swancolorHD
   <tr>
     <th>R1</th>
     <td>10kΩ 抵抗</td>
-    <td><a href="https://www.lcsc.com/product-detail/Schottky-Diodes_JSMSEMI-1N5819W_C963381.html">LCSC</a></td>
+    <td><a href="https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.html">LCSC</a></td>
   </tr>
   <tr>
     <th>U5</th>
