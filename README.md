@@ -6,7 +6,7 @@ swancolorHD<br>
 https://github.com/zwenergy/swancolorHD
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/plusmmm/WSCHD/main/WSC-HD_Rev1.5.0.png" width="30%">
+  <img src="https://raw.githubusercontent.com/plusmmm/WSCHD/main/WSC-HD_Rev1.5.1.png" width="30%">
 </p>
 <p>
   HDMIケーブルの抜き差し無しで起動できるようになりました。
@@ -23,7 +23,7 @@ https://github.com/zwenergy/swancolorHD
     <th>LCSC Part #</th>
   </tr>
   <tr>
-    <th>R1</th>
+    <th>R1-R2</th>
     <td>10kΩ 抵抗</td>
     <td>C17414</td>
   </tr>
@@ -38,7 +38,7 @@ https://github.com/zwenergy/swancolorHD
     <td>C9807</td>
   </tr>
   <tr>
-    <th>C2-C4</th>
+    <th>C2-C3</th>
     <td>キャパシタ 1206 100uF</td>
     <td>C7432784</td>
   </tr>
@@ -78,6 +78,10 @@ controller2.inoをArduino Nanoに書き込んでください。
 
 
 <h3>更新履歴</h3>
+<p>
+  <b>rev1.5.1(25/06/15)</b><br>
+  コンデンサを1つ削除、抵抗を1つ追加しました。
+</p>
 <p>
   <b>rev1.5.0(25/06/15)</b><br>
   ショットキーダイオードの抜けがありましたので修正しました。
