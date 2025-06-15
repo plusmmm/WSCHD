@@ -28,7 +28,7 @@ https://github.com/zwenergy/swancolorHD
     <td>C17414</td>
   </tr>
   <tr>
-    <th>U5</th>
+    <th>Q0</th>
     <td>レギュレーター</td>
     <td>C474401</td>
   </tr>
