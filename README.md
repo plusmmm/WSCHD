@@ -6,7 +6,7 @@ swancolorHD<br>
 https://github.com/zwenergy/swancolorHD
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/plusmmm/WSCHD/main/Rev1.5.0.png" width="30%">
+  <img src="https://raw.githubusercontent.com/plusmmm/WSCHD/main/WSC-HD_Rev1.5.0.png" width="30%">
 </p>
 <p>
   HDMIケーブルの抜き差し無しで起動できるようになりました。
@@ -47,6 +47,11 @@ https://github.com/zwenergy/swancolorHD
     <td>Pチャンネル MOSFET</td>
     <td>C518785</td>
   </tr>
+  <tr>
+    <th>U4</th>
+    <td>ショットキーダイオード</td>
+    <td>C963381</td>
+  </tr>
 </table>
 
 <h3>備考</h3>
@@ -73,6 +78,10 @@ controller2.inoをArduino Nanoに書き込んでください。
 
 
 <h3>更新履歴</h3>
+<p>
+  <b>rev1.5.0(25/06/15)</b><br>
+  ショットキーダイオードの抜けがありましたので修正しました。
+</p>
 <p>
   <b>rev1.5.0(25/06/07)</b><br>
   配置を変更しました。<br>
