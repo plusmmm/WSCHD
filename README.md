@@ -9,7 +9,7 @@ https://github.com/zwenergy/swancolorHD
   <img src="https://raw.githubusercontent.com/plusmmm/WSCHD/main/WSC-HD_Rev1.6.0.png" width="30%">
 </p>
 
-<h3>PCB BOM</h3>
+<h3>PCB BOM（Rev1.6.0）</h3>
 <p>
   swancolorHDからパーツに変更があります。
 </p>
@@ -71,6 +71,10 @@ controller2.inoをArduino Nanoに書き込んでください。
 
 
 <h3>更新履歴</h3>
+<p>
+  <b>rev2.0.0(26/05/09)</b><br>
+  無線コントローラーに対応。
+</p>
 <p>
   <b>rev1.6.0(25/08/24)</b><br>
   各種パーツを見直し/変更、パーツ変更に伴う配線の見直しを行いました。<br>
