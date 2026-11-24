@@ -12,6 +12,10 @@ https://github.com/zwenergy/swancolorHD
 
 <h3>更新履歴</h3>
 <p>
+  <b>rev20K U/W(26/11/24)</b><br>
+  Rev.20K U/W基板を公開。
+</p>
+<p>
   <b>rev2.0.0 U/W(26/09/14)</b><br>
   Rev.2.0.0基板をDualSense or DUALSHOCK4のみに対応。
 </p>
